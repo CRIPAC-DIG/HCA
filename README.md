@@ -6,8 +6,9 @@ A Hierarchical Contextual Attention-based Network for Sequential Recommendation
 
 https://www.sciencedirect.com/science/article/pii/S0925231219306642
 
-BibTex:
+BibTeX:
 
+```
 @article{cui2019hierarchical,
   title={A Hierarchical Contextual Attention-based Network for Sequential Recommendation},
   author={Cui, Qiang and Wu, Shu and Huang, Yan and Wang, Liang},
@@ -15,5 +16,6 @@ BibTex:
   year={2019},
   publisher={Elsevier}
 }
+```
 
-If you have other questions or confusions, please send email to [cuiqiang1990@hotmail.com].
+If you have other questions or confusions, please send email to [cuiqiang1990@hotmail.com](mailto:cuiqiang1990@hotmail.com).
