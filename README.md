@@ -1,13 +1,20 @@
-HCA
+# HCA
 
-Code for my Neurocomputing-2019. It is implemented by Python27 and Theano.
+<img src="hca.png" alt="model" style="zoom: 50%;" />
 
-A Hierarchical Contextual Attention-based Network for Sequential Recommendation
+This is the code for the Neurocomputing 2019 Paper: [A Hierarchical Contextual Attention-based Network for Sequential Recommendation](https://www.sciencedirect.com/science/article/pii/S0925231219306642).
 
-https://www.sciencedirect.com/science/article/pii/S0925231219306642
+## Usage
 
-BibTeX:
 
+## Requirements
+
+- Python27
+- Theano
+
+## Citation
+
+Please cite our paper if you use the code:
 ```
 @article{cui2019hierarchical,
   title={A Hierarchical Contextual Attention-based Network for Sequential Recommendation},
@@ -17,5 +24,7 @@ BibTeX:
   publisher={Elsevier}
 }
 ```
+
+## Contact information
 
 If you have other questions or confusions, please send email to [cuiqiang1990@hotmail.com](mailto:cuiqiang1990@hotmail.com).
